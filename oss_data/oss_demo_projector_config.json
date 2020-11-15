@@ -1,0 +1,61 @@
+{
+  "embeddings": [
+    {
+      "tensorName": "#Chiledespertó por Región",
+      "tensorShape": [
+        4743,
+        2048
+      ],
+      "tensorPath": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/n/grynqsphwqoi/b/bucket-renunciapinera/o/chiledesperto-region-tensor.bytes",
+      "metadataPath": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/n/grynqsphwqoi/b/bucket-renunciapinera/o/chiledesperto-region-metadata.tsv",
+      "sprite": {
+        "imagePath": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/n/grynqsphwqoi/b/bucket-renunciapinera/o/chiledesperto-region-sprites.png",
+        "singleImageDim": [
+          110,
+          110
+        ]
+      }
+    },
+    {
+      "tensorName": "#RenunciaPiñera por ubicación",
+      "tensorShape": [
+        4782,
+        2048
+      ],
+      "tensorPath": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/n/grynqsphwqoi/b/bucket-renunciapinera/o/renunciapineralocation-tensor.bytes",
+      "metadataPath": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/n/grynqsphwqoi/b/bucket-renunciapinera/o/renunciapineralocation-metadata.tsv",
+      "sprite": {
+        "imagePath": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/n/grynqsphwqoi/b/bucket-renunciapinera/o/renunciapineralocation-sprites.png",
+        "singleImageDim": [
+          110,
+          110
+        ]
+      }
+    },
+    {
+      "tensorName": "#RenunciaPiñera 5000",
+      "tensorShape": [5100, 2048],
+      "tensorPath": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/jQjOZokP1yvvxTslNnIMVjF1WvRSwnudq5GSBOiLmnY/n/grynqsphwqoi/b/bucket-renunciapinera/o/tensor.bytes",
+      "sprite": {
+        "imagePath": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/qtg2oBixzzKuAuK66Jd3cCcGNsC45gRVAvSnjmpFC-I/n/grynqsphwqoi/b/bucket-renunciapinera/o/sprites.png",
+        "singleImageDim": [100, 100]
+      }
+    },
+    {
+      "tensorName": "#ChileDespertó 10000",
+      "tensorShape": [
+        10000,
+        2048
+      ],
+      "tensorPath": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/n/grynqsphwqoi/b/bucket-renunciapinera/o/chiledesperto-tensor.bytes",
+      "sprite": {
+        "imagePath": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/n/grynqsphwqoi/b/bucket-renunciapinera/o/chiledesperto-sprites.png",
+        "singleImageDim": [
+          80,
+          80
+        ]
+      }
+    }
+  ],
+  "modelCheckpointPath": "Demo datasets"
+}
