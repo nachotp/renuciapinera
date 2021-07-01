@@ -55,6 +55,21 @@
           80
         ]
       }
+    },
+    {
+      "tensorName": "4chan",
+      "tensorShape": [
+        10000,
+        512
+      ],
+      "tensorPath": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/n/grynqsphwqoi/b/bucket-pipe/o/4chan_projector_10k.bytes",
+      "sprite": {
+        "imagePath": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/n/grynqsphwqoi/b/bucket-pipe/o/4chan_projector_10k_sprite.png",
+        "singleImageDim": [
+          110,
+          110
+        ]
+      }
     }
   ],
   "modelCheckpointPath": "Demo datasets"
