@@ -3,9 +3,9 @@
     {
       "tensorName": "#RenunciaPiñera 5000",
       "tensorShape": [5100, 2048],
-      "tensorPath": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/jQjOZokP1yvvxTslNnIMVjF1WvRSwnudq5GSBOiLmnY/n/grynqsphwqoi/b/bucket-renunciapinera/o/tensor.bytes",
+      "tensorPath": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/n/grynqsphwqoi/b/bucket-renunciapinera/o/tensor.bytes",
       "sprite": {
-        "imagePath": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/p/qtg2oBixzzKuAuK66Jd3cCcGNsC45gRVAvSnjmpFC-I/n/grynqsphwqoi/b/bucket-renunciapinera/o/sprites.png",
+        "imagePath": "https://objectstorage.sa-saopaulo-1.oraclecloud.com/n/grynqsphwqoi/b/bucket-renunciapinera/o/sprites.png",
         "singleImageDim": [100, 100]
       }
     },
